@@ -3,7 +3,7 @@ view: sql_runner_query {
     sql: select * from public.drive limit 10
       ;;
   }
-
+### edits on line 6
   measure: count {
     type: count
     drill_fields: [detail*]
