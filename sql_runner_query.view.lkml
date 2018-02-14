@@ -4,6 +4,9 @@ view: sql_runner_query {
       ;;
   }
 ### edits on line 6
+### more edits
+
+
   measure: count {
     type: count
     drill_fields: [detail*]
