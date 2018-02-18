@@ -62,7 +62,7 @@ explore: orders {
 
 # explore: products {
 
-# commit in dev branch
+# new commit in dev branch
 # }
 
 # explore: schema_migrations {}
