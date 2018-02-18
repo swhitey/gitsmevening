@@ -6,7 +6,7 @@ view: events {
     type: number
     sql: ${TABLE}.id ;;
   }
-#making a change
+#making a newchange
   dimension_group: created {
     type: time
     timeframes: [
@@ -20,7 +20,7 @@ view: events {
     ]
     sql: ${TABLE}.created_at ;;
   }
-
+#enw
   dimension: type_id {
     type: number
     sql: ${TABLE}.type_id ;;
