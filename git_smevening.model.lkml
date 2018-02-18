@@ -14,7 +14,7 @@ explore: events {
     relationship: many_to_one
   }
 }
-
+#a change
 explore: inventory_items {
   hidden: yes
   join: products {
