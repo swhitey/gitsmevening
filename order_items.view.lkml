@@ -12,7 +12,7 @@ view: order_items {
     # hidden: yes
     sql: ${TABLE}.inventory_item_id ;;
   }
-
+#fs;daljk
   dimension: order_id {
     type: number
     # hidden: yes
