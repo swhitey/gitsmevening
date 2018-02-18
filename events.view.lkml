@@ -6,7 +6,7 @@ view: events {
     type: number
     sql: ${TABLE}.id ;;
   }
-#making a change
+#making a newchange
   dimension_group: created {
     type: time
     timeframes: [
