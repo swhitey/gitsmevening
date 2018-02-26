@@ -7,7 +7,7 @@ view: order_items {
     sql: ${TABLE}.id ;;
   }
 
-
+#dgfs;lksgd;sg/lkjags'
   dimension: inventory_item_id {
     type: number
     # hidden: yes
